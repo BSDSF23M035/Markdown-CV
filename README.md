@@ -1,6 +1,7 @@
 # **MUHAMMAD SHAHID**  
-### *Client Service Executive*   ![Alt Text](C:\Shahid Data\Personal Information\PU\4th Semester\Introduction to data Science\Assignment 2\Shahid.png) 
-
+  <img src="https://github.com/BSDSF23M035/Markdown-CV/blob/main/Shahid.png?raw=true" alt="Profile Picture" width="400" height="400">
+  
+### *Client Service Executive* 
 ---
 
 ## **📌 About Me**  
