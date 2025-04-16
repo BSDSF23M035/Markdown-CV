@@ -52,13 +52,6 @@ Dedicated and results-driven Client Services Executive with 1.5 years of experie
 
 ---
 
-## **🌍 Languages**  
-- **English**  
-- **Urdu**  
-- **Punjabi**  
-- **Saraiki**  
-
----
 
 ## **🏆 Certifications & Awards**  
 ### **Quaid-e-Azam Scout Certificate**  
